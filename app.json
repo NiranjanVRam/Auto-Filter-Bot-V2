@@ -8,24 +8,24 @@
         "Telegram Bot",
         "TroJanzHEX"
     ],
-    "website": "https://TroJanzHEX.me",
-    "repository": "https://github.com/TroJanzHEX/Auto-Filter-Bot-V2",
-    "success_url": "https://telegram.dog/TroJanzHEX",
+    "website": "https://t.me/fileshomeofficial",
+    "repository": "https://t.me/fileshomeofficial",
+    "success_url": "https://t.me/fileshomeofficial",
     "env": {
         "TG_BOT_TOKEN": {
             "description": "You Telegram Bot Token from @BotFather",
             "value": ""
         },
         "API_HASH": {
-            "description": "Your API Hash from my.telegram.org or @UseTGXBot",
+            "description": "Your API Hash from my.telegram.org",
             "value": ""
         },
         "APP_ID": {
-            "description": "Your APP ID from my.telegram.org or @UseTGXBot",
+            "description": "Your APP ID from my.telegram.org",
             "value": ""
         },
         "TG_USER_SESSION": {
-            "description": "A pyrogram user session string. Generate from https://repl.it/@prgofficial/String-Gen",
+            "description": "A pyrogram user session string. Generate from https://replit.com/@FilesHome/Generate-Telegram-String-Session?v=1",
             "value": ""
         },
         "AUTH_USERS": {
