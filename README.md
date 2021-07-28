@@ -71,11 +71,11 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 ## Installation
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TroJanzHEX/Auto-Filter-Bot-V2)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/NiranjanVRam/Auto-Filter-Bot-V2)
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Auto-Filter-Bot-V2
+git clone https://github.com/NiranjanVRam/Auto-Filter-Bot-V2
 cd Auto-Filter-Bot-V2
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
@@ -90,7 +90,7 @@ python3 main.py
 
 * API_HASH      - From my.telegram.org (or @UseTGXBot)
 
-* TG_USER_SESSION  - A pyrogram user session string. Generate by [clicking here](https://repl.it/@prgofficial/String-Gen)
+* TG_USER_SESSION  - A pyrogram user session string. Generate by [clicking here](https://replit.com/@FilesHome/Generate-Telegram-String-Session?v=1)
 
 * AUTH_USERS  - ID of users that can use the bot commands. Get from [MissRose Bot](https://telegram.dog/MissRose_bot) by using /id command
 
